@@ -75,10 +75,11 @@ git clone https://github.com/your-username/easy-payments-app.git
 ## Скриншоты
 
 Точка старта приложения - экран авторизации
+
 <img alt="img.png" height="600" src="readme_img/login.jpg" width="290"/>
 
-
 После входа в профиль появляется экран со всеми платежами и возможностью выхода из профиля
+
 <img alt="img.png" height="600" src="readme_img/payments.jpg" width="290"/>
 
 ## Как использовать
