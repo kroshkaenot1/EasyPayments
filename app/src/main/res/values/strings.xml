@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EasyPayments</string>
+    <string name="retrofit_gson_date_format">yyyy-MM-dd\'T\'HH:mm:ss</string>
+    <string name="retrofit_url">https://easypay.world/api-test/</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+</resources>
